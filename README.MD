@@ -137,7 +137,7 @@ Clique em [Use this template] OU siga os passos abaixo:
 ---
 
 
-## ✍ Refeito por 
+## ✍ Replicado por 
 | [<img src="https://avatars.githubusercontent.com/u/147287067?s=100&v=4" width="100px"><br><sub>Naty</sub>](https://github.com/NatyAnalytcs-1) |
 |:---------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                 [LinkedIn](https://www.linkedin.com/in/nataliaanastacio)                                      |
