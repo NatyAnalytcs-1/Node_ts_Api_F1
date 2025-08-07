@@ -138,8 +138,8 @@ Clique em [Use this template] OU siga os passos abaixo:
 
 
 ## ✍ Refeito por 
-| [<img src="https://avatars.githubusercontent.com/u/147287067?s=400&u=50473b84f58a7c2f31010d8426110a7a982c0c58&v=4](https://github.com/NatyAnalytcs-1) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                            [Linkedin](https://www.linkedin.com/in/nataliaanastacio)                                             |
+| [<img src="https://avatars.githubusercontent.com/u/147287067?s=100&v=4" width="100px"><br><sub>Naty</sub>](https://github.com/NatyAnalytcs-1) |
+|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                 [LinkedIn](https://www.linkedin.com/in/nataliaanastacio)                                      |
 
 
